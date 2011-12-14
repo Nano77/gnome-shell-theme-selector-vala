@@ -1,0 +1,15 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Exec=/usr/bin/gnome-shell-theme-selector
+Name=GnomeShell Theme
+Name[fr_FR]=Thème de GnomeShell
+Name[de_DE]=GnomeShell-Thema
+Name[es_ES]=Tema de GnomeShell
+Name[it_IT]=Tema di GnomeShell
+Icon=preferences-desktop-theme
+Categories=Settings;
+
